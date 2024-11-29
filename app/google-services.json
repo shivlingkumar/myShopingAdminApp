@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903190856846",
+    "project_id": "shoppingadmin-de221",
+    "storage_bucket": "shoppingadmin-de221.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903190856846:android:877e266d072e429ee2b5df",
+        "android_client_info": {
+          "package_name": "com.rajnish.shoppingadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-fQ0naixGYKiS89Dj3qFIT61qpu1SI0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
